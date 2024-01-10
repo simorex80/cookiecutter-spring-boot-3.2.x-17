@@ -12,7 +12,7 @@
 	<artifactId>{{cookiecutter.app_name}}</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>{{cookiecutter.app_name}}</name>
-	<description>{{cookiecutter.app_description}}</description>
+	<description>{{cookiecutter.project_name}}</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
